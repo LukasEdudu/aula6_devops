@@ -1,1 +1,1 @@
-# aula6_devops
+# devops-aula06
